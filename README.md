@@ -1,5 +1,5 @@
 
-#TREKCAMPUS
+## TREKCAMPUS
 
 TrekCampus is an intra-campus navigation system designed to simplify campus navigation for students, faculty, and visitors. By providing real-time directions, point-to-point routes, and easy access to campus locations, TrekCampus enhances user experience and convenience within a campus environment.
 
