@@ -86,6 +86,15 @@ The `admin.py` file includes the following main functionalities:
 - **Campus and Building Navigation:** Allows the admin to add, remove, and view edges in the campus navigation graph, as well as manage building-specific navigation for each floor.
 - **Faculty Management:** Enables the admin to initialize faculty lists for each floor’s rooms, add or remove faculty members from specific rooms, and update the faculty data in `edges.py` accordingly.
 
+### Team Members
+- CB.EN.U4CSE22425 - N. Diyva
+- CB.EN.U4CSE22430 - Priyadarshini Rajesh 
+- CB.EN.U4CSE22432 - A. Prahalyaa
+- CB.EN.U4CSE22435 - Riya Rajesh
+- CB.EN.U4CSE22460 - Samyuktha BM
+- CB.EN.U4CSE22461 - B. Shanmuka Vardhan
+
+
 ## Contributing
 
 We welcome contributions! If you have suggestions or improvements, please open a pull request or an issue.
